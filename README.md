@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I am Manoj Kumar
-[Follow on Youtube](https://google.com)
+### I am Manoj Kumar, Tech Enthusiast | Skilled in Python, Azure, and AWS | Driven to Deliver Scalable and Secure Solutions. 💻 Full Stack Developer | Building Innovative Web Solut
+[Follow on Youtube](https://youtube.com/@mkcoder)
 
 <!--
 **ManojkumarBulandshahr/ManojkumarBulandshahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
